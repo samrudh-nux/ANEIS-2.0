@@ -23,7 +23,7 @@ short_description: Government of India · AI-Powered Real-Time Emergency Intelli
 
 > *Real-time dispatch · Clinical risk engine · Hospital digital twin · AI operations commander*
 
-[![Community](https://img.shields.io/badge/💬%20COMMUNITY-Discussions-10b981?style=for-the-badge)](https://huggingface.co/spaces/samrudh-nux/Anesi-2.0/discussions)
+
 
 <br/>
 
