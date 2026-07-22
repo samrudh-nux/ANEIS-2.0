@@ -23,9 +23,6 @@ short_description: Government of India · AI-Powered Real-Time Emergency Intelli
 
 > *Real-time dispatch · Clinical risk engine · Hospital digital twin · AI operations commander*
 
-<br/>
-
-[![Live Demo](https://img.shields.io/badge/🟢%20LIVE%20DEMO-HuggingFace%20Space-FF9D00?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/spaces/samrudh-nux/Anesi-2.0)
 [![Community](https://img.shields.io/badge/💬%20COMMUNITY-Discussions-10b981?style=for-the-badge)](https://huggingface.co/spaces/samrudh-nux/Anesi-2.0/discussions)
 
 <br/>
@@ -36,7 +33,7 @@ short_description: Government of India · AI-Powered Real-Time Emergency Intelli
 
 ## 🎯 What is ANEIS?
 
-**ANEIS (AI Emergency Intelligence System)** is a full-stack, production-grade emergency response platform built for the scale of India. It connects distressed citizens to emergency responders, hospitals, and AI-driven command systems — in real time.
+**ANEIS (AI Emergency Intelligence System)** is a full-stack, emergency response platform built for the scale of India. It connects distressed citizens to emergency responders, hospitals, and AI-driven command systems — in real time.
 
 ANEIS 2.0 is not a prototype. It is a live, deployable intelligence hub with:
 - A **citizen-facing emergency portal** (voice/text/chat, multilingual)
@@ -51,21 +48,7 @@ ANEIS 2.0 is not a prototype. It is a live, deployable intelligence hub with:
 
 ---
 
-## 🚀 Live Links
 
-| Resource | Link |
-|---|---|
-| 🟢 **Live Application** | [https://samrudh-nux-anesi-2-0.hf.space](https://huggingface.co/spaces/samrudh-nux/Anesi-2.0) |
-| 📁 **Source Files** | [/tree/main](https://huggingface.co/spaces/samrudh-nux/Anesi-2.0/tree/main) |
-| 🧠 **AI Engine** | [aiEngine.ts](https://huggingface.co/spaces/samrudh-nux/Anesi-2.0/blob/main/aiEngine.ts) |
-| 🖥️ **Server** | [server.ts](https://huggingface.co/spaces/samrudh-nux/Anesi-2.0/blob/main/server.ts) |
-| 🙋 **Citizen Portal** | [CitizenPortal.tsx](https://huggingface.co/spaces/samrudh-nux/Anesi-2.0/blob/main/CitizenPortal.tsx) |
-| 🛡️ **Authority Dashboard** | [AuthorityDashboard.tsx](https://huggingface.co/spaces/samrudh-nux/Anesi-2.0/blob/main/AuthorityDashboard.tsx) |
-| 🗺️ **Map Component** | [Map.tsx](https://huggingface.co/spaces/samrudh-nux/Anesi-2.0/blob/main/Map.tsx) |
-| 📋 **Commit History** | [/commits/main](https://huggingface.co/spaces/samrudh-nux/Anesi-2.0/commits/main) |
-| 💬 **Discussions** | [/discussions](https://huggingface.co/spaces/samrudh-nux/Anesi-2.0/discussions) |
-
----
 
 ## 🏗️ System Architecture
 
@@ -403,7 +386,7 @@ Voice recognition is pre-configured for `hi-IN` (Hindi-India) with cross-languag
 ## 👤 Author
 
 **Samrudh**  
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-samrudh--nux-FF9D00?style=flat-square&logo=huggingface)](https://huggingface.co/samrudh-nux)
+
 
 ---
 
@@ -419,8 +402,6 @@ MIT License — open for research, education, and civic-tech applications.
 
 *Digital India · MEITY · Emergency Response System · AI Powered · ISO 27001*
 
-<br/>
 
-[![Live on HuggingFace](https://img.shields.io/badge/🚨%20TRY%20ANEIS%202.0%20LIVE-Launch%20App-FF3B30?style=for-the-badge)](https://huggingface.co/spaces/samrudh-nux/Anesi-2.0)
 
 </div>
